@@ -1,0 +1,25 @@
+{
+   "entry": [
+      {
+         "title": "Advertising (UA Only)",
+         "majorName": "Advertising (UA Only)",
+         "authorId": 0,
+         "area1": {
+            "subArea": [
+               {
+                  "areaTitle": "Requirements",
+                  "requirements": "nothing",
+                  "semesterHours": "6-12",
+                  "courses": [992]
+               },
+               {
+                  "areaTitle": "Literature",
+                  "requirements": "nothing",
+                  "semesterHours": "6-12",
+                  "courses": [992]
+               }
+            ]
+         }
+      }
+   ]
+}
