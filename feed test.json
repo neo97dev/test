@@ -9,14 +9,7 @@
                {
                   "areaTitle": "Requirements",
                   "requirements": "nothing",
-                  "semesterHours": "6-12",
-                  "courses": [992]
-               },
-               {
-                  "areaTitle": "Literature",
-                  "requirements": "nothing",
-                  "semesterHours": "6-12",
-                  "courses": [992]
+                  "semesterHours": "6-12"
                }
             ]
          }
