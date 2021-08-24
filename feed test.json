@@ -8,7 +8,51 @@
                "area_title": "Requirements",
                "requirements": "All students are required to complete a two-course sequence in Written Composition.",
                "semester_hours": "6-12",
-               "eligible_courses": [1197, 1199]
+               "eligible_courses": ["ENG 251", "ENG 101"]
+            }
+         ],
+         "area2": [
+            {
+               "area_title": "Literature",
+               "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+               "semester_hours": "6-12",
+               "eligible_courses": ["ENG 251", "ENG 101"]
+            },
+            {
+               "area_title": "Arts",
+               "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+               "semester_hours": "6-12",
+               "eligible_courses": ["ENG 251", "ENG 101"]
+            },
+            {
+               "area_title": "Other Humanities",
+               "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+               "semester_hours": "6-12",
+               "eligible_courses": ["ENG 251", "ENG 101"]
+            }
+         ],
+         "area3": [
+            {
+               "area_title": "Requirements",
+               "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+               "semester_hours": "6-12",
+               "eligible_courses": ["ENG 251", "ENG 101"]
+            }
+         ],
+         "area4": [
+            {
+               "area_title": "Requirements",
+               "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+               "semester_hours": "6-12",
+               "eligible_courses": ["ENG 251", "ENG 101"]
+            }
+         ],
+         "area5": [
+            {
+               "area_title": "Requirements",
+               "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+               "semester_hours": "6-12",
+               "eligible_courses": ["ENG 251", "ENG 101"]
             }
          ]
       }
