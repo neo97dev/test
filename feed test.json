@@ -1,41 +1,37 @@
 {
-   "entry": [
+   "entries": [
       {
          "title": "Advertising (UA Only)",
-         "majorName": "Advertising (UA Only)",
-         "authorId": 0,
-         "area1": {
-            "subArea": [
-               {
-                  "areaTitle": "Requirements",
-                  "requirements": "All students are required to complete a two-course sequence in Written Composition.",
-                  "semesterHours": "6-12",
-                  "eligibleCourses": [1197, 1199]
-               }
-            ]
-         },
-         "area2": {
-            "subArea": [
-               {
-                  "areaTitle": "Literature",
-                  "requirements": "All students are required to complete a two-course sequence in Written Composition.",
-                  "semesterHours": "6-12",
-                  "eligibleCourses": [1197, 1199]
-               },
-               {
-                  "areaTitle": "Arts",
-                  "requirements": "All students are required to complete a two-course sequence in Written Composition.",
-                  "semesterHours": "6-12",
-                  "eligibleCourses": [1197, 1199]
-               },
-               {
-                  "areaTitle": "Other Humanities",
-                  "requirements": "All students are required to complete a two-course sequence in Written Composition.",
-                  "semesterHours": "6-12",
-                  "eligibleCourses": [1197, 1199]
-               }
-            ]
-         }
+         "major_name": "Advertising (UA Only)",
+         "area1": [
+            {
+               "area_title": "Requirements",
+               "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+               "semester_hours": "6-12",
+               "eligible_courses": [1197, 1199]
+            }
+         ],
+         "area2": [
+            {
+               "area_title": "Literature",
+               "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+               "semester_hours": "6-12",
+               "eligible_courses": [1197, 1199]
+            },
+            {
+               "area_title": "Arts",
+               "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+               "semester_hours": "6-12",
+               "eligible_courses": [1197, 1199]
+            },
+            {
+               "area_title": "Other Humanities",
+               "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+               "semester_hours": "6-12",
+               "eligible_courses": [1197, 1199]
+            }
+         ]
       }
    ]
 }
+
