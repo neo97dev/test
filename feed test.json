@@ -8,8 +8,31 @@
             "subArea": [
                {
                   "areaTitle": "Requirements",
-                  "requirements": "nothing",
-                  "semesterHours": "6-12"
+                  "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+                  "semesterHours": "6-12",
+                  "eligibleCourses": [1197, 1199]
+               }
+            ]
+         },
+         "area2": {
+            "subArea": [
+               {
+                  "areaTitle": "Literature",
+                  "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+                  "semesterHours": "6-12",
+                  "eligibleCourses": [1197, 1199]
+               },
+               {
+                  "areaTitle": "Arts",
+                  "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+                  "semesterHours": "6-12",
+                  "eligibleCourses": [1197, 1199]
+               },
+               {
+                  "areaTitle": "Other Humanities",
+                  "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+                  "semesterHours": "6-12",
+                  "eligibleCourses": [1197, 1199]
                }
             ]
          }
