@@ -30,6 +30,30 @@
                "semester_hours": "6-12",
                "eligible_courses": [1197, 1199]
             }
+         ],
+         "area3": [
+            {
+               "area_title": "Requirements",
+               "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+               "semester_hours": "6-12",
+               "eligible_courses": [1197, 1199]
+            }
+         ],
+         "area4": [
+            {
+               "area_title": "Requirements",
+               "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+               "semester_hours": "6-12",
+               "eligible_courses": [1197, 1199]
+            }
+         ],
+         "area5": [
+            {
+               "area_title": "Requirements",
+               "requirements": "All students are required to complete a two-course sequence in Written Composition.",
+               "semester_hours": "6-12",
+               "eligible_courses": [1197, 1199]
+            }
          ]
       }
    ]
